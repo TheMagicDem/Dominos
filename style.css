@@ -1,0 +1,76 @@
+body {
+    background-color:Gainsboro;
+}
+
+header {
+    background-color:DimGrey;
+}
+
+.header {
+text-align:center;
+font-family: fantasy;
+}
+
+.logo {
+    width:50px;
+    height:50px;
+    border: 2px solid DimGrey;
+    border-radius:30px;
+    padding:15px;
+}
+
+nav {
+    background-color: black;
+    text-align:center;
+    padding:10px;
+}
+
+nav a {
+    background-color:white;
+    padding:6px;
+    margin:10px;
+    text-decoration:none;
+    color:black;
+    border:2px solid black;
+    border-radius: 9px;
+}
+
+.main {
+border-bottom: 2px solid DimGray;
+padding-bottom: 5px;
+color:Navy;
+}
+
+p {
+    font-size:20px;
+    font-family:sans-serif;
+    border-left: 5px dotted;
+    background-color:Moccasin;
+    padding:10px;
+}
+
+.footer_p {
+    background-color:LightGray;
+    border-left:none;
+    font-size:15px;
+}
+
+footer {
+   background-color: DimGrey; 
+   border: 1px solid DimGrey;
+   padding:5px;
+}
+
+.footer {
+    background-color: LightGray;
+    text-decoration:none;
+    color:black;
+    border: 2px solid DimGrey;
+    border-radius:10px;
+    padding:5px;
+}
+
+.main_img {
+    width:600px;
+    height:300px;
+}
